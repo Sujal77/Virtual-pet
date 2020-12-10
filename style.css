@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 5px dashed black;
+  margin-top:10px;
+  margin-left: 500px;
+}
+#css{
+  text-align: center;
+  font-size: 100px;
+  font-family: "Copperplate Papyrus", fantasy;
+  color: red;
+}
+
